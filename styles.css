@@ -1,0 +1,103 @@
+h2 {
+    font-family: 'Kirang Haerang', cursive;
+    color: white;
+}
+
+.an {
+    font-family: 'Kirang Haerang', cursive;
+    text-align: center;
+    font-size: 29px;
+}
+
+
+img {
+    margin: 1px;
+    padding: 10px;
+    border-width: 10px;
+    border-style: dashed;
+    color: #8B4513;
+}
+
+p {
+    color: white;
+    font-size: 29px;
+    font-family: 'Kirang Haerang', cursive;
+    text-align: center;
+}
+
+.an {
+    color: white;
+}
+
+.fav {
+    font-size: 29px;
+    font-family: 'Kirang Haerang', cursive;
+    color: white;
+    background-color: #8FBC8F;
+}
+
+.etsy {
+    color: white;
+
+}
+
+.etsy {
+    background-color: #8B4513;
+    font-family: 'Viaoda Libre', cursive;
+
+}
+
+
+li {
+    font-family: 'Viaoda Libre', cursive;
+    color: white;
+    font-size: 29px;
+}
+
+a {
+    color: #800000;
+    text-align: left;
+    font-size: 29px;
+}
+
+img {
+
+    height: 200px;
+}
+
+
+body {
+    background-color: #8FBC8F;
+}
+
+h1 {
+    color: black;
+    text-align: left;
+    float: left;
+}
+
+html,
+body {
+    background-image: url("image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://66.media.tumblr.com/0a30db12a2f54c2c696a8dbec59ba842/5e5da0084a362068-83/s2048x3072_c0,0,99048,100000/3456d732d8e57bc1ffc240dd81d79135d8f89f18.gif");
+}
+
+a:hover {
+    background-color: yellow;
+    height: 80%;
+}
+
+.About {
+    background-color: #8FBC8F;
+}
+
+h2 {
+    background-color: #8FBC8F;
+}
+
+border {
+    border: solid 50px #000;
+}
